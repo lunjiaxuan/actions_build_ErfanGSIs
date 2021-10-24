@@ -18,7 +18,7 @@ env:
 
 
   ROM_NAME: MIUI
-  BUILD_TYPE: ab
+  BUILD_TYPE: Aonly
   TZ: Asia/Shanghai
 
 jobs:
