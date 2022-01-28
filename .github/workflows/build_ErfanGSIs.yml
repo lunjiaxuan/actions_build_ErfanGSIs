@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.0.3.0.PEICNXM/miui_HMNote5_V12.0.3.0.PEICNXM_5cb7befde7_9.0.zip
+  ROM_URL: https://dljz-my.sharepoint.com/personal/kidn_nii_ink/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fkidn%5Fnii%5Fink%2FDocuments%2F%E6%9C%BA%E5%9E%8B%E6%96%87%E4%BB%B6%E5%A4%B9%2FRedmi%203S%20and%203X%20resources%2FMIUI%20Port%28Chinese%20Version%29%2FMIUI%2012%2E5%2Fmiui%5FHM3S%5FV12%2E5%2E3%2E0%2EQALCNXM%5F78f436a3be%5F10%2E0%2Ezip
 
 
   ROM_NAME: MIUI
