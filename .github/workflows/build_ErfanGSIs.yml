@@ -40,7 +40,7 @@ jobs:
        - name: Fix exit
          run: |
               sed -i 's/\|\| exit 1//g' $GITHUB_WORKSPACE/ErfanGSIs/url2GSI.sh
-              sed -i 's/exit 1//g' $GITHUB_WORKSPACE/ErfanGSIs/url2GSI.sh
+              sed -i 's/exit 1//g' $GITHUB_WORKSPACE./ErfanGSIs/url2GSI.sh
        
        - name: Setting up ErfanGSI requirements
          run: |
@@ -49,7 +49,7 @@ jobs:
               sudo bash ./setup.sh
        
        - name: Download Stock Rom & Generate GSI
-         run: sudo bash ./url2GSI.sh -c --$BUILD_TYPE $ROM_URL $ROM_NAME
+         run: sudo bash./ErfanGSIs/url2GSI.sh  -c --$BUILD_TYPE $ROM_URL $ROM_NAME
        
        - name: Zip GSI  
          run: |
