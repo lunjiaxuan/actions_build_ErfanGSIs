@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.0.1.0.PDICNXM/miui_HM6Pro_V12.0.1.0.PDICNXM_81d8bc0ad2_9.0.zip
+  ROM_URL: https://bigota.d.miui.com/V12.0.2.0.PDCCNXM/miui_MI6X_V12.0.2.0.PDCCNXM_7c0078f6ae_9.0.zip
   ROM_NAME: MIUI
   BUILD_TYPE: Aonly
   TZ: Asia/Shanghai
