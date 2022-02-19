@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.0.21.0.QCDINXM/miui_DANDELIONINGlobal_V12.0.21.0.QCDINXM_4f9d33a797_10.0.zip
+  ROM_URL: https://kamiui.ml/redmi4x/Redmi%203S%20and%203X%20resources/MIUI%20Port(Chinese%20Version)/MIUI%2012/miui_LAND_20.4.27_V2_5b6f52a1d5_9.0.zip?preview
   ROM_NAME: MIUI
-  BUILD_TYPE: AB
+  BUILD_TYPE: A
   TZ: Asia/Shanghai
 
 jobs:
