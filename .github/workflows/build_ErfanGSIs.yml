@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.0.3.0.PEICNXM/miui_HMNote5_V12.0.3.0.PEICNXM_5cb7befde7_9.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://bigota.d.miui.com/V12.0.2.0.PDCCNXM/miui_MI6X_V12.0.2.0.PDCCNXM_7c0078f6ae_9.0.zip
+  ROM_NAME: miui
   BUILD_TYPE: aonly
   TZ: Asia/Shanghai
 
