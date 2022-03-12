@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/V10.2.1.0.OAACNXM/miui_MI5_V10.2.1.0.OAACNXM_b647d74428_8.0.zip
+  ROM_URL: http://bigota.d.miui.com/9.10.31/miui_BEGONIA_9.10.31_2f82f0db71_9.0.zip
   ROM_NAME: MIUI
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
